@@ -260,7 +260,14 @@ nav h3:hover {
     animation: typeWriter 2s steps(40) forwards;
     margin: 20px;
 }
-
+@keyframes typeWriter {
+    from {
+        width: 0; 
+    }
+    to {
+        width: 100%; 
+    }
+}
 .minu {
     color: #bdc3c7; /* Silver */
     margin: 20px;
