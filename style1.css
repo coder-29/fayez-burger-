@@ -1,0 +1,35 @@
+body {
+    background-color: #444444; 
+    color: white;
+    font-family: 'Cairo', sans-serif;
+    direction: rtl;
+    text-align: right;
+}
+header{
+    border: #989191 solid;
+    border-radius: 15px;
+    background-color: #AA4444;
+    text-align: center;
+    margin: 20px;
+    color:#989191;
+}
+.container h3{
+    color:#989191;
+}
+.cr1 {
+    text-align: center;
+    color: #AA4444;
+    margin: 20px;
+}
+
+.top1 {
+    text-align: center;
+    margin: 20px;
+}
+.top1:hover{
+    background-color: #989191;
+}
+
+.top1 a {
+    color: #666666; 
+}
